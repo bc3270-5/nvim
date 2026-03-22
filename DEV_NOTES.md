@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-22
 - Removed unused variable declarations
 - Tested build on clean environment
+
+## 2026-03-22
+- Reorganised test fixtures
+- Added inline documentation for core functions
