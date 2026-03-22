@@ -10,3 +10,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Reviewed codebase, identified areas for improvement
 - Resolved TODO items from previous session
+
+## 2026-03-22
+- Removed unused variable declarations
